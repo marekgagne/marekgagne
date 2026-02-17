@@ -8,4 +8,5 @@ print("test 3")
 
 print("test 4")
 
-HELLO
+HELLO = "Hello World!"
+print(HELLO)
