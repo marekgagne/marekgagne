@@ -1,4 +1,6 @@
-a = test
+a = "test"
 print(a)
 
-print("teste 2")
+print("test 2")
+print("test 3")
+
